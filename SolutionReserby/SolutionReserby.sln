@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReserbyFormsApp", "ReserbyFormsApp\ReserbyFormsApp.csproj", "{713EF296-4CA9-4DAD-AB7D-3E7486E78D72}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "V. 01", "V. 01", "{F65D0E95-57B3-4030-B813-E40BB0631554}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Layers", "Layers", "{2F50A505-EBE4-46F0-AA75-1BC6DD86A497}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Consola", "Consola", "{F1423DD7-C0D7-4A57-AD3A-E8022CA0E247}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{71C9F6CF-C6D6-4F27-BF17-C49DAD03EF91}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Windows Forms", "Windows Forms", "{52B961F8-E4C0-4CC7-8397-6B25A2140F6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{713EF296-4CA9-4DAD-AB7D-3E7486E78D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713EF296-4CA9-4DAD-AB7D-3E7486E78D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713EF296-4CA9-4DAD-AB7D-3E7486E78D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713EF296-4CA9-4DAD-AB7D-3E7486E78D72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{713EF296-4CA9-4DAD-AB7D-3E7486E78D72} = {52B961F8-E4C0-4CC7-8397-6B25A2140F6F}
+		{2F50A505-EBE4-46F0-AA75-1BC6DD86A497} = {F65D0E95-57B3-4030-B813-E40BB0631554}
+		{F1423DD7-C0D7-4A57-AD3A-E8022CA0E247} = {2F50A505-EBE4-46F0-AA75-1BC6DD86A497}
+		{71C9F6CF-C6D6-4F27-BF17-C49DAD03EF91} = {2F50A505-EBE4-46F0-AA75-1BC6DD86A497}
+		{52B961F8-E4C0-4CC7-8397-6B25A2140F6F} = {2F50A505-EBE4-46F0-AA75-1BC6DD86A497}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88ED764F-9318-4B08-BD90-089BFC6E0974}
+	EndGlobalSection
+EndGlobal

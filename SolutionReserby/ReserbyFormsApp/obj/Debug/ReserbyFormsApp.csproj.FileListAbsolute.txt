@@ -1,0 +1,17 @@
+C:\Users\Chamil PC\OneDrive\Documentos\Cuatrimestre 2022-C3 ITLA\Diseño Centrado al Usuario\SolutionReserby\ReserbyFormsApp\bin\Debug\ReserbyFormsApp.exe.config
+C:\Users\Chamil PC\OneDrive\Documentos\Cuatrimestre 2022-C3 ITLA\Diseño Centrado al Usuario\SolutionReserby\ReserbyFormsApp\bin\Debug\ReserbyFormsApp.exe
+C:\Users\Chamil PC\OneDrive\Documentos\Cuatrimestre 2022-C3 ITLA\Diseño Centrado al Usuario\SolutionReserby\ReserbyFormsApp\bin\Debug\ReserbyFormsApp.pdb
+C:\Users\Chamil PC\OneDrive\Documentos\Cuatrimestre 2022-C3 ITLA\Diseño Centrado al Usuario\SolutionReserby\ReserbyFormsApp\obj\Debug\ReserbyFormsApp.csproj.AssemblyReference.cache
+C:\Users\Chamil PC\OneDrive\Documentos\Cuatrimestre 2022-C3 ITLA\Diseño Centrado al Usuario\SolutionReserby\ReserbyFormsApp\obj\Debug\ReserbyFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chamil PC\OneDrive\Documentos\Cuatrimestre 2022-C3 ITLA\Diseño Centrado al Usuario\SolutionReserby\ReserbyFormsApp\obj\Debug\ReserbyFormsApp.FormLogin.resources
+C:\Users\Chamil PC\OneDrive\Documentos\Cuatrimestre 2022-C3 ITLA\Diseño Centrado al Usuario\SolutionReserby\ReserbyFormsApp\obj\Debug\ReserbyFormsApp.Properties.Resources.resources
+C:\Users\Chamil PC\OneDrive\Documentos\Cuatrimestre 2022-C3 ITLA\Diseño Centrado al Usuario\SolutionReserby\ReserbyFormsApp\obj\Debug\ReserbyFormsApp.csproj.GenerateResource.cache
+C:\Users\Chamil PC\OneDrive\Documentos\Cuatrimestre 2022-C3 ITLA\Diseño Centrado al Usuario\SolutionReserby\ReserbyFormsApp\obj\Debug\ReserbyFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Chamil PC\OneDrive\Documentos\Cuatrimestre 2022-C3 ITLA\Diseño Centrado al Usuario\SolutionReserby\ReserbyFormsApp\obj\Debug\ReserbyFormsApp.exe
+C:\Users\Chamil PC\OneDrive\Documentos\Cuatrimestre 2022-C3 ITLA\Diseño Centrado al Usuario\SolutionReserby\ReserbyFormsApp\obj\Debug\ReserbyFormsApp.pdb
+C:\Users\Chamil PC\OneDrive\Documentos\Cuatrimestre 2022-C3 ITLA\Diseño Centrado al Usuario\SolutionReserby\ReserbyFormsApp\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Chamil PC\OneDrive\Documentos\Cuatrimestre 2022-C3 ITLA\Diseño Centrado al Usuario\SolutionReserby\ReserbyFormsApp\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Chamil PC\OneDrive\Documentos\Cuatrimestre 2022-C3 ITLA\Diseño Centrado al Usuario\SolutionReserby\ReserbyFormsApp\obj\Debug\ReserbyFormsApp.csproj.CopyComplete
+C:\Users\Chamil PC\OneDrive\Documentos\Cuatrimestre 2022-C3 ITLA\Diseño Centrado al Usuario\SolutionReserby\ReserbyFormsApp\bin\Debug\LoginClass.dll
+C:\Users\Chamil PC\OneDrive\Documentos\Cuatrimestre 2022-C3 ITLA\Diseño Centrado al Usuario\SolutionReserby\ReserbyFormsApp\bin\Debug\LoginClass.pdb
+C:\Users\Chamil PC\OneDrive\Documentos\Cuatrimestre 2022-C3 ITLA\Diseño Centrado al Usuario\SolutionReserby\ReserbyFormsApp\obj\Debug\ReserbyFormsApp.SplashBienvenida.resources
